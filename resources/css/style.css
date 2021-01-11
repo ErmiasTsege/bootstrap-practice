@@ -1,0 +1,10 @@
+img{
+border-radius: 50%;
+}
+.main-wrapper img{
+    border-radius: 0;
+}
+nav{
+margin-bottom: 100px;
+height: 100px;
+}
